@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mobile1{
+    width: 50%;
+    transform: rotate(25deg);
+    bottom: 50px !important;
+    left: 200px !important;
+}
+
+.mobile2{
+    width: 50%;
+    transform: rotate(25deg);
+    top: 50px !important;
+    right: 200px !important;
+}
+
+/* .mid-section{
+    height: 500px;
+    margin-top: 50px;
+} */
